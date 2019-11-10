@@ -1,0 +1,5 @@
+mystyles:
+  version: 1.x
+  css:
+    theme:
+      includes/mystyles/css/mystyles.css: {}
