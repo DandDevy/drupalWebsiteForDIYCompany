@@ -11,7 +11,7 @@
 
 body{
   font-family: 'Rajdhani', sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 160%;
   color: #333;
   overflow-x: hidden;
@@ -21,13 +21,13 @@ body{
 
 p{ margin: 0 0 20px 0; }
 
-h1, .h1{ font-size: 22px; color: #000; font-weight: 600; }
+h1, .h1{ font-size: 32px; color: #000; font-weight: 600; }
 
-h2, .h2{ font-size: 20px; color: #000; font-weight: 600; }
+h2, .h2{ font-size: 25px; color: #000; font-weight: 600; }
 
-h3, .h3{ font-size: 16px; color: #000; font-weight: 600; }
+h3, .h3{ font-size: 20px; color: #000; font-weight: 600; }
 
-h4, .h4{ font-size: 14px; color: #000; font-weight: 600; }
+h4, .h4{ font-size: 18px; color: #000; font-weight: 600; }
 
 img{ max-width: 100%; }
 
